@@ -24,7 +24,7 @@
     "@usermaven/sdk-js": "^1.1.9",
     "axios": "^0.24.0",
     "firebase": "^9.9.0",
-    "framer-motion": "^10.16.4",
+    "framer-motion": "^12.23.12",
     "fs": "^0.0.1-security",
     "google": "link:@next/third-parties/google",
     "gray-matter": "^4.0.3",
